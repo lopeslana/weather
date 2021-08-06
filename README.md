@@ -1,8 +1,8 @@
 <h1 align="center">API de Clima
  </br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/DWxHSYh/imagem-2021-08-06-182048.png" alt="imagem-2021-08-06-182048" border="0" width="400px" height="600"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/wrjwj54/imagem-2021-08-06-182227.png" alt="imagem-2021-08-06-182227" border="0" width="400px" height="600"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/G5nVQhS/imagem-2021-08-06-182343.png" alt="imagem-2021-08-06-182343" border="0" width="400px" height="600"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/DWxHSYh/imagem-2021-08-06-182048.png" alt="imagem-2021-08-06-182048" border="0" ></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/wrjwj54/imagem-2021-08-06-182227.png" alt="imagem-2021-08-06-182227" border="0" ></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/G5nVQhS/imagem-2021-08-06-182343.png" alt="imagem-2021-08-06-182343" border="0" ></a>
 
 </h1>
  <h1>⚙ Funcionalidades</h1>
